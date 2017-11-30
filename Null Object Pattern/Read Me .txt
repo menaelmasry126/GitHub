@@ -1,0 +1,3 @@
+According to my research, and my understanding from the information I found, the null object is bascially an object replacing the null check in the code. Therefore, in the code
+provided I attempted to show that the "NullObjectivepattern" will be extended from the mother class which is "Shipment" in this case. The class will check if the status is 
+available, in the case where the status is not available or "null" it will send back a "Shipment status is not avaialble", and if it is available it will send back a true. 

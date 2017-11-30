@@ -1,0 +1,3 @@
+Prototype design pattern purpose is to clone or copy objects from an already created class instead of wasting resources to make a whole new object. In other words the 
+prototype interface is used to clone objects. In my code, I tried to implement a simple clonning, but extending a rainbow class which would have already a color object. 
+This is intended to allow the coloning of the color object.

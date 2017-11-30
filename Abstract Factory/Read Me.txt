@@ -1,0 +1,7 @@
+This the my abstract factory code. By definition, a abstract factory pattern is used to "Provide an interface for creating families of related or dependent objects without 
+specifying their concrete classes".According to my research an "Abstract factory desing pattern" is bascially "factory" codes that are used to create concrete objects. 
+Concrete objects are being implemented or extended from another class. For the code provided here I created factories to come up with factory to decide what game the 
+client is intereseted in. There is two arguments which include "World of Warcraft", and "League of Legends". These belong to two different factories one for a "free to play" 
+factory, and the other to "Pay to play factory". The "Gamefactory" recieves one of the two arguments according to the client's needs, which is pushed by the two different 
+game type factories. This is all built on the main "game" interface which is idealy is used to figure out what the client wants to play. Finally, the abstractfactorytest
+is just used to test the program. 

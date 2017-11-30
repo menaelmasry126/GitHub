@@ -1,0 +1,4 @@
+In this file I included a very simple builder code to just show the purpose of the builder pattern. The builder pattern is used to build a class using the required specifictions
+provided. The specifications can be ordered in any way, and the builder would create a instance once values have been provided to all the specifications fields which in this case
+to build a car. This method makes it easier to build build complex objects with many attributes. I intialized various attributes of the ca, and I also made the class protected 
+in effort to force using that class. The builder class is then expected to take all these values and create a sutible instance. 

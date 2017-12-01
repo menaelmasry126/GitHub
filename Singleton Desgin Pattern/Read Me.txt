@@ -1,0 +1,4 @@
+According to my research on Singleton pattern, this pattern is one of the simplest way to create an object. This pattern takes care
+of creating a object, and making sure a single object is created. This allows the access to the object withouth having to instantiate
+it. I used private consturctor to make sure only that object is created, and then I used getInstance to get the single object that
+was created within the instance. 

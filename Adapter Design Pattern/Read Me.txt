@@ -1,0 +1,3 @@
+Adapter pattern is intended to deal with two different interfaces, which usually do not work together. Here, for this example
+I couldn't grasp the whole idea in such little time, but for my understanding I tried to convert the "int" type "age" to a double
+type.
